@@ -5,10 +5,7 @@ __pycache__/
 .env
 .venv
 
-data/raw/
-data/train/
-data/val/
-data/test/
+data/
 
 checkpoints/
 models/
